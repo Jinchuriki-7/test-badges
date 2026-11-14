@@ -1,3 +1,3 @@
 # Test Badges
 
-Testing GitHub achievements: PR #2 contribution line.
+Testing GitHub achievements: PR #3 contribution line.
